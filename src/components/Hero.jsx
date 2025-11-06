@@ -60,7 +60,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, ease: "easeOut", delay: 0.6 }}
         >
-          I’m a passionate software developer, problem solver, and creator. I
+          I’m a passionate software developer and problem solver. I
           love turning ideas into real projects that make an impact. Explore my
           work and journey here!
         </motion.p>
