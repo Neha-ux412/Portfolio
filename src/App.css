@@ -1,11 +1,21 @@
 .App {
   text-align: center;
 }
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-image: url('/assets/about_me.png'); /* use your texture */
+  background-size: cover;
+  background-attachment: fixed; /* Parallax-like effect */
+  background-position: center;
+  color: white;
+}
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -23,6 +33,10 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+html {
+  scroll-behavior: smooth;
+}
+
 
 .App-link {
   color: #61dafb;
