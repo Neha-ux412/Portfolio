@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Portfolio
+Hi! I’m Nehanjali, a passionate full-stack developer. This portfolio showcases my projects built with MERN stack and modern web technologies, demonstrating my skills in building responsive, interactive, and real-world web applications. Explore my work to see my journey in coding, problem-solving, and creating impactful digital experiences.
+>>>>>>> 1651eab7f23cf8b004179a79bfad47ca8cd3be6a
