@@ -9,6 +9,7 @@ import cert5 from "../assets/certifications/java_fundamentals.jpeg";
 import cert6 from "../assets/certifications/sql.jpeg";
 import cert7 from "../assets/certifications/html_css.jpeg";
 import cert8 from "../assets/certifications/cc.png";
+import cert9 from "../assets/certifications/ai-tools.png";
 import bgImage from "../assets/cert.jpg";
 
 const Certifications = () => {
@@ -21,6 +22,7 @@ const Certifications = () => {
     { title: "Database Programming with SQL", skills: "SQL", certifiedBy: "Oracle Academy", img: cert6, link: "#" },
     { title: "HTML5 and CSS3", skills: "HTML, CSS", certifiedBy: "TASK", img: cert7, link: "#" },
     { title: "Cloud Computing", skills: "Cloud", certifiedBy: "Simplilearn", img: cert8, link: "#" },
+    { title: "AI Tools workshop", skills: "AI tools", certifiedBy: "Be10x", img: cert9, link: "#" },
   ];
 
   const [currentPage, setCurrentPage] = useState(0);
