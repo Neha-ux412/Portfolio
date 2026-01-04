@@ -1,75 +1,73 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
 # Portfolio
 Hi! I’m Nehanjali, a passionate full-stack developer. This portfolio showcases my projects built with MERN stack and modern web technologies, demonstrating my skills in building responsive, interactive, and real-world web applications. Explore my work to see my journey in coding, problem-solving, and creating impactful digital experiences.
->>>>>>> 1651eab7f23cf8b004179a79bfad47ca8cd3be6a
+view my portfolio here: https://portfolio-neha-ux412-nehanjalis-projects.vercel.app/
+USE LAPTOP FOR BETTER EXPERIENCE
+## 🚀 Tech Stack
+
+- **Frontend:** React.js  
+- **Styling:** Tailwind CSS  
+- **Package Manager:** npm  
+- **Hosting:** Vercel  
+
+---
+
+## 📸 Features
+
+- Elegant and minimal UI  
+- Fully responsive design (mobile & desktop friendly)  
+- Smooth scrolling and transitions  
+- Projects, About, and Contact sections  
+- Easy to maintain and extend  
+
+---
+
+## 🛠️ Installation & Setup
+
+Follow these steps to run the project locally 👇
+
+```bash
+# 1️⃣ Clone this repository
+git clone https://github.com/Neha-ux412/Portfolio.git
+
+# 2️⃣ Move into the project folder
+cd Portfolio
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
+npm start
+Now, open http://localhost:3000 in your browser to view it.
+
+📦 Build for Production
+To create an optimised production build:
+
+bash
+Copy code
+npm run build
+This will generate the build/ folder with all static files ready for deployment.
+
+🌍 Deployment
+The portfolio is hosted on Vercel and automatically redeploys when updates are pushed to the main branch on GitHub.
+
+Live Demo: Click here to view
+
+✨ Author
+👩‍💻 Nehanjali Bangaru
+Passionate about web development, UI design, and crafting interactive digital experiences.
+
+🌎 Portfolio Live Link
+
+💼 GitHub Profile
+
+📜 License
+This project is licensed under the MIT License — feel free to use and modify it with credit.
+
+
+
+
+
+
+
+
